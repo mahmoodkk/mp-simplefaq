@@ -1,5 +1,4 @@
-mp-simplefaq
-============
+
 
 WordPress Simple FAQ Manager
 
